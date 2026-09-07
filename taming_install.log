@@ -1,0 +1,189 @@
+Using pip 26.2.1 from C:\Users\vizio\Downloads\stable-diffusion-webui-1.10.1\stable-diffusion-webui-1.10.1\venv\Lib\site-packages\pip (python 3.12)
+Collecting git+https://github.com/CompVis/taming-transformers.git
+  Cloning https://github.com/CompVis/taming-transformers.git to C:\Users\vizio\AppData\Local\Temp\pip-req-build-2rxxbxiu
+  Running command git version
+  git version 2.55.0.windows.5
+  Running command git clone --filter=blob:none https://github.com/CompVis/taming-transformers.git 'C:\Users\vizio\AppData\Local\Temp\pip-req-build-2rxxbxiu'
+  Cloning into 'C:\Users\vizio\AppData\Local\Temp\pip-req-build-2rxxbxiu'...
+  Updating files:   0% (1/719)
+  Updating files:   1% (8/719)
+  Updating files:   2% (15/719)
+  Updating files:   3% (22/719)
+  Updating files:   4% (29/719)
+  Updating files:   5% (36/719)
+  Updating files:   6% (44/719)
+  Updating files:   7% (51/719)
+  Updating files:   8% (58/719)
+  Updating files:   9% (65/719)
+  Updating files:  10% (72/719)
+  Updating files:  11% (80/719)
+  Updating files:  12% (87/719)
+  Updating files:  13% (94/719)
+  Updating files:  14% (101/719)
+  Updating files:  15% (108/719)
+  Updating files:  16% (116/719)
+  Updating files:  17% (123/719)
+  Updating files:  18% (130/719)
+  Updating files:  19% (137/719)
+  Updating files:  20% (144/719)
+  Updating files:  21% (151/719)
+  Updating files:  22% (159/719)
+  Updating files:  23% (166/719)
+  Updating files:  24% (173/719)
+  Updating files:  25% (180/719)
+  Updating files:  26% (187/719)
+  Updating files:  27% (195/719)
+  Updating files:  28% (202/719)
+  Updating files:  29% (209/719)
+  Updating files:  30% (216/719)
+  Updating files:  31% (223/719)
+  Updating files:  32% (231/719)
+  Updating files:  33% (238/719)
+  Updating files:  34% (245/719)
+  Updating files:  35% (252/719)
+  Updating files:  36% (259/719)
+  Updating files:  37% (267/719)
+  Updating files:  38% (274/719)
+  Updating files:  39% (281/719)
+  Updating files:  40% (288/719)
+  Updating files:  41% (295/719)
+  Updating files:  42% (302/719)
+  Updating files:  43% (310/719)
+  Updating files:  44% (317/719)
+  Updating files:  45% (324/719)
+  Updating files:  46% (331/719)
+  Updating files:  47% (338/719)
+  Updating files:  48% (346/719)
+  Updating files:  49% (353/719)
+  Updating files:  50% (360/719)
+  Updating files:  51% (367/719)
+  Updating files:  52% (374/719)
+  Updating files:  53% (382/719)
+  Updating files:  54% (389/719)
+  Updating files:  55% (396/719)
+  Updating files:  56% (403/719)
+  Updating files:  57% (410/719)
+  Updating files:  58% (418/719)
+  Updating files:  59% (425/719)
+  Updating files:  60% (432/719)
+  Updating files:  61% (439/719)
+  Updating files:  62% (446/719)
+  Updating files:  63% (453/719)
+  Updating files:  64% (461/719)
+  Updating files:  64% (462/719)
+  Updating files:  65% (468/719)
+  Updating files:  66% (475/719)
+  Updating files:  67% (482/719)
+  Updating files:  68% (489/719)
+  Updating files:  69% (497/719)
+  Updating files:  70% (504/719)
+  Updating files:  71% (511/719)
+  Updating files:  72% (518/719)
+  Updating files:  73% (525/719)
+  Updating files:  74% (533/719)
+  Updating files:  75% (540/719)
+  Updating files:  76% (547/719)
+  Updating files:  77% (554/719)
+  Updating files:  78% (561/719)
+  Updating files:  79% (569/719)
+  Updating files:  80% (576/719)
+  Updating files:  81% (583/719)
+  Updating files:  82% (590/719)
+  Updating files:  83% (597/719)
+  Updating files:  84% (604/719)
+  Updating files:  85% (612/719)
+  Updating files:  86% (619/719)
+  Updating files:  87% (626/719)
+  Updating files:  88% (633/719)
+  Updating files:  89% (640/719)
+  Updating files:  90% (648/719)
+  Updating files:  91% (655/719)
+  Updating files:  92% (662/719)
+  Updating files:  93% (669/719)
+  Updating files:  94% (676/719)
+  Updating files:  95% (684/719)
+  Updating files:  96% (691/719)
+  Updating files:  97% (698/719)
+  Updating files:  98% (705/719)
+  Updating files:  99% (712/719)
+  Updating files: 100% (719/719)
+  Updating files: 100% (719/719), done.
+  Running command git rev-parse HEAD
+  3ba01b241669f5ade541ce990f7650a3b8f65318
+  Resolved https://github.com/CompVis/taming-transformers.git to commit 3ba01b241669f5ade541ce990f7650a3b8f65318
+  Running command git rev-parse HEAD
+  3ba01b241669f5ade541ce990f7650a3b8f65318
+  Installing build dependencies: started
+  Running command installing build dependencies
+  Using pip 26.2.1 from C:\Users\vizio\Downloads\stable-diffusion-webui-1.10.1\stable-diffusion-webui-1.10.1\venv\Lib\site-packages\pip (python 3.12)
+  Collecting setuptools>=40.8.0
+    Obtaining dependency information for setuptools>=40.8.0 from https://files.pythonhosted.org/packages/95/9c/c510029fc6ef33a6275cd2c5d3cecd6613dfd6aa401d57c54f1c18852ccf/setuptools-84.0.0-py3-none-any.whl.metadata
+    Using cached setuptools-84.0.0-py3-none-any.whl.metadata (6.6 kB)
+  Using cached setuptools-84.0.0-py3-none-any.whl (818 kB)
+  Installing collected packages: setuptools
+  Successfully installed setuptools-84.0.0
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Running command Getting requirements to build wheel
+  running egg_info
+  creating taming_transformers.egg-info
+  writing taming_transformers.egg-info\PKG-INFO
+  writing dependency_links to taming_transformers.egg-info\dependency_links.txt
+  writing requirements to taming_transformers.egg-info\requires.txt
+  writing top-level names to taming_transformers.egg-info\top_level.txt
+  writing manifest file 'taming_transformers.egg-info\SOURCES.txt'
+  reading manifest file 'taming_transformers.egg-info\SOURCES.txt'
+  adding license file 'License.txt'
+  writing manifest file 'taming_transformers.egg-info\SOURCES.txt'
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Running command Preparing metadata (pyproject.toml)
+  running dist_info
+  creating C:\Users\vizio\AppData\Local\Temp\pip-modern-metadata-fyfjguay\taming_transformers.egg-info
+  writing C:\Users\vizio\AppData\Local\Temp\pip-modern-metadata-fyfjguay\taming_transformers.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\vizio\AppData\Local\Temp\pip-modern-metadata-fyfjguay\taming_transformers.egg-info\dependency_links.txt
+  writing requirements to C:\Users\vizio\AppData\Local\Temp\pip-modern-metadata-fyfjguay\taming_transformers.egg-info\requires.txt
+  writing top-level names to C:\Users\vizio\AppData\Local\Temp\pip-modern-metadata-fyfjguay\taming_transformers.egg-info\top_level.txt
+  writing manifest file 'C:\Users\vizio\AppData\Local\Temp\pip-modern-metadata-fyfjguay\taming_transformers.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\vizio\AppData\Local\Temp\pip-modern-metadata-fyfjguay\taming_transformers.egg-info\SOURCES.txt'
+  adding license file 'License.txt'
+  writing manifest file 'C:\Users\vizio\AppData\Local\Temp\pip-modern-metadata-fyfjguay\taming_transformers.egg-info\SOURCES.txt'
+  creating 'C:\Users\vizio\AppData\Local\Temp\pip-modern-metadata-fyfjguay\taming_transformers-0.0.1.dist-info'
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: taming-transformers
+  Building wheel for taming-transformers (pyproject.toml): started
+  Running command Building wheel for taming-transformers (pyproject.toml)
+  running bdist_wheel
+  running build
+  installing to build\bdist.win-amd64\wheel
+  running install
+  running install_egg_info
+  running egg_info
+  writing taming_transformers.egg-info\PKG-INFO
+  writing dependency_links to taming_transformers.egg-info\dependency_links.txt
+  writing requirements to taming_transformers.egg-info\requires.txt
+  writing top-level names to taming_transformers.egg-info\top_level.txt
+  reading manifest file 'taming_transformers.egg-info\SOURCES.txt'
+  adding license file 'License.txt'
+  writing manifest file 'taming_transformers.egg-info\SOURCES.txt'
+  Copying taming_transformers.egg-info to build\bdist.win-amd64\wheel\.\taming_transformers-0.0.1-py3.12.egg-info
+  running install_scripts
+  creating build\bdist.win-amd64\wheel\taming_transformers-0.0.1.dist-info\WHEEL
+  creating 'C:\\Users\\vizio\\AppData\\Local\\Temp\\pip-ephem-wheel-cache-t06my8q8\\wheels\\07\\d2\\62\\308002498ad2a0c3161535d5ff138377509d9632bc78228dda\\tmpq0xn8e43\\.tmp-n5xkr3r_\\taming_transformers-0.0.1-py3-none-any.whl' and adding 'build\\bdist.win-amd64\\wheel' to it
+  adding 'taming_transformers-0.0.1.dist-info/licenses/License.txt'
+  adding 'taming_transformers-0.0.1.dist-info/METADATA'
+  adding 'taming_transformers-0.0.1.dist-info/WHEEL'
+  adding 'taming_transformers-0.0.1.dist-info/top_level.txt'
+  adding 'taming_transformers-0.0.1.dist-info/RECORD'
+  removing build\bdist.win-amd64\wheel
+  Building wheel for taming-transformers (pyproject.toml): finished with status 'done'
+  Created wheel for taming-transformers: filename=taming_transformers-0.0.1-py3-none-any.whl size=2066 sha256=2609a3e6ad8474a460c18f0ded489101e536e74de4ce1f2251e37b9ec648496d
+  Stored in directory: C:\Users\vizio\AppData\Local\Temp\pip-ephem-wheel-cache-t06my8q8\wheels\07\d2\62\308002498ad2a0c3161535d5ff138377509d9632bc78228dda
+Successfully built taming-transformers
+Installing collected packages: taming-transformers
+  Attempting uninstall: taming-transformers
+    Found existing installation: taming-transformers 0.0.1
+    Uninstalling taming-transformers-0.0.1:
+      Removing file or directory c:\users\vizio\downloads\stable-diffusion-webui-1.10.1\stable-diffusion-webui-1.10.1\venv\lib\site-packages\taming_transformers-0.0.1.dist-info\
+      Successfully uninstalled taming-transformers-0.0.1
+Successfully installed taming-transformers-0.0.1
